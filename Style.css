@@ -1,0 +1,12 @@
+.a{list-style: none;
+margin: auto;
+width: 50vw;
+padding-left: 0;
+text-align: center;}
+.a>li{ display: inline-block;}
+.a>li>a{ text-decoration: none; 
+color: black;}
+.a>li>a:hover{color: blue;}
+.b{width: 30vw; height: auto;}
+.c{width: 100vw; height:auto;}
+h1{background-color: black; color: aliceblue;}

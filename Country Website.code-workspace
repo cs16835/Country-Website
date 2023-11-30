@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Personal Website/Images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Country Website"
+	}
+}
